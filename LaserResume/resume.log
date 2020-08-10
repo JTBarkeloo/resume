@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2020.5.12)  27 JUL 2020 11:20
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2020.5.12)  27 JUL 2020 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1056,14 +1056,11 @@ Overfull \hbox (3.20001pt too wide) in paragraph at lines 26--38
    [] 
  []
 
-) (./resume/publications.tex
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/sc' will be
-(Font)              scaled to size 8.0pt on input line 16.
-) (./resume/skills.tex
+) (./resume/publications.tex) (./resume/skills.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 6.
 
-Overfull \hbox (76.28368pt too wide) in alignment at lines 3--16
+Overfull \hbox (71.40367pt too wide) in alignment at lines 3--12
 [] [] 
  []
 
@@ -1079,11 +1076,11 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 39375 strings out of 492933
- 764557 string characters out of 6136537
- 976554 words of memory out of 5000000
- 42895 multiletter control sequences out of 15000+600000
- 536075 words of font info for 94 fonts, out of 8000000 for 9000
+ 39373 strings out of 492933
+ 764447 string characters out of 6136537
+ 976550 words of memory out of 5000000
+ 42894 multiletter control sequences out of 15000+600000
+ 536067 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,11n,89p,797b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
 
