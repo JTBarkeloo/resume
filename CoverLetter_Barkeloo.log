@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2020.5.12)  13 JUL 2020 13:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2020.5.12)  9 OCT 2020 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -515,43 +515,54 @@ No file CoverLetter_Barkeloo.bbl.
 Package biblatex Info: Reference section=0 on input line 16.
 Package biblatex Info: Reference segment=0 on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 20.
+(Font)              <12> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 20.
+(Font)              <8> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 20.
+(Font)              <6> on input line 21.
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
+Overfull \hbox (1.6265pt too wide) in paragraph at lines 24--29
+\OT1/cmr/m/n/12 adapted my dis-ser-ta-tion re-search to in-clude ma-chine learn
+-ing ap-pli-ca-tions. De-vel-op-ing an end-to-end
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
 
  []
 
@@ -559,6 +570,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./CoverLetter_Barkeloo.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                CoverLetter_Barkeloo
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'CoverLetter_Barkeloo.run.xml'.
 \openout1 = `CoverLetter_Barkeloo.run.xml'.
 
@@ -566,7 +585,7 @@ Package logreq Info: Writing requests to 'CoverLetter_Barkeloo.run.xml'.
 Here is how much of TeX's memory you used:
  16665 strings out of 492616
  319282 string characters out of 6132783
- 797299 words of memory out of 5000000
+ 797270 words of memory out of 5000000
  20531 multiletter control sequences out of 15000+600000
  535680 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -574,7 +593,7 @@ Here is how much of TeX's memory you used:
 <c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on CoverLetter_Barkeloo.pdf (1 page, 36619 bytes).
+Output written on CoverLetter_Barkeloo.pdf (1 page, 36560 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
